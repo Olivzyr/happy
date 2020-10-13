@@ -34,7 +34,7 @@
 ---
 ## **About the Module**
 #### Next Level Week is one semanal event provided by rocketseat to help students arround the world to speedup your skills with Full-Stack Developer using Node.JS React and React Native to reach the next level quickly, simple and direct to the companies wanted.
-#### Objective: Create one application WEB and Mobile to provide one bridge between adults and Kids with vulnerability situations orphanages to adults schedule some moments with this kids to provide help and happiness.
+#### Objective: Create one application WEB and Mobile to provide one bridge between adults and Kids with vulnerability situations in orphanages to adults schedule some moments with this kids to provide help and happiness.
 ---
 # Resources and Procedures
 ---
